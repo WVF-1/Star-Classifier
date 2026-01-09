@@ -5,7 +5,7 @@ An expansion on the previous project of Star Analytics. Looking into what method
 
 ## Project Overview
 
-In this AI/ML project I explored and expanded upon the previous projects nuances of Star Type Classification. Through multiple methods such as Logistic Regression, K-NN, Random Forrest Generation, and SVM, I attempt to see which model would best result in the most accurate star classification. Through the process of engineering artificial noise and bootstrapping, I attempted to remedy the overfitting due to the constraints of the dataset. These proved to only highlight further the limitations of the dataset and a thorough glare of this was seen when they were combined.
+In this AI/ML project I explored and expanded upon the previous project's nuances of Star Type Classification. Through multiple methods such as Logistic Regression, K-NN, Random Forrest Generation, and SVM, I attempt to see which model would best result in the most accurate star classification. Through the process of engineering artificial noise and bootstrapping, I attempted to remedy the overfitting due to the constraints of the dataset. These proved to only highlight further the limitations of the dataset and a thorough glare of this was seen when they were combined.
 
 ---
 
